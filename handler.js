@@ -1,4 +1,4 @@
-/*Elios and Ben*/
+/*Geezyy*/
 
 const { GroupSettingChange, WAMessageProto, MessageType, prepareMessageFromContent, relayWAMessage } = require('@adiwajshing/baileys')
 const { exec } = require('child_process');
